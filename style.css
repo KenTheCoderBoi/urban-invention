@@ -1,0 +1,39 @@
+#heading{
+    width:100%;
+    font-size: 23px;
+    margin:0px;
+}
+.disk_left{
+    width:200px;
+    border-radius: 100px;
+}
+.disk_right{
+    width:200px;
+    border-radius: 100px;
+}
+.volume{
+    float:left;
+}
+.speed{
+    float:right
+}
+.play{
+    font-size: 33px;
+}
+#speeddisk{
+    margin: 45px;
+}
+#volumedisk{
+    margin: 45px;
+}
+canvas{
+    border-style: solid;
+    border-width: 15px;
+    border-radius:15px;
+    border-color: black;
+}
+.play_button{
+    margin-top: 30px;
+    font-size: 25px;
+    width:125px;
+}
